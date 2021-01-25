@@ -33,13 +33,13 @@ Output: 1->3->5->2->4->NULL
 
 ## 图
 
-![](../../images/Odd Even Linked List01.jpg)
+![](../../../images/Odd Even Linked List01.jpg)
 
 
 
-![](../../images/Odd Even Linked List02.jpg)
+![](../../../images/Odd Even Linked List02.jpg)
 
-![](../../images/Odd Even Linked List03.jpg)
+![](../../../images/Odd Even Linked List03.jpg)
 
 ## Java Code
 
