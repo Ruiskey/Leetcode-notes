@@ -20,7 +20,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
  
 
-![](/home/rei/文档/leet_code算法刷题/git_repo/Blog/images/addtwonumber1.jpg)
+![](../../images/addtwonumber1.jpg)
 
 
 
